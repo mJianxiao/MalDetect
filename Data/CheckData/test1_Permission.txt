@@ -1,0 +1,7 @@
+android.permission.VIBRATE
+android.permission.FLASHLIGHT
+android.permission.WRITE_EXTERNAL_STORAGE
+android.permission.CAMERA
+android.permission.INTERNET
+android.permission.RECEIVE_BOOT_COMPLETED
+android.permission.ACCESS_NETWORK_STATE

@@ -1,0 +1,334 @@
+2021-05-27 09:01:55,955 INFO    : Traversing ..\BenignAPK folder
+2021-05-27 09:01:55,956 INFO    : Traversing ..\MaliciousAPK folder
+2021-05-27 09:01:58,613 INFO    : Extractmal3.apkAPI calls
+2021-05-27 09:01:58,634 INFO    : Extractben3.apkAPI calls
+2021-05-27 09:01:58,708 INFO    : Extractmal2.apkAPI calls
+2021-05-27 09:01:59,511 INFO    : Saving mal2.apk APIs
+2021-05-27 09:01:59,527 INFO    : Extractmal2.apk Permissions
+2021-05-27 09:01:59,543 INFO    : Savingmal2.apk Permissions
+2021-05-27 09:01:59,558 INFO    : Extractmal6.apkAPI calls
+2021-05-27 09:02:09,683 INFO    : Saving ben3.apk APIs
+2021-05-27 09:02:09,701 INFO    : Extractben3.apk Permissions
+2021-05-27 09:02:09,717 INFO    : Savingben3.apk Permissions
+2021-05-27 09:02:09,717 INFO    : Extractben5.apkAPI calls
+2021-05-27 09:02:09,745 INFO    : Saving mal3.apk APIs
+2021-05-27 09:02:09,747 INFO    : Extractmal3.apk Permissions
+2021-05-27 09:02:09,763 INFO    : Savingmal3.apk Permissions
+2021-05-27 09:02:09,763 INFO    : Extractmal5.apkAPI calls
+2021-05-27 09:02:19,647 INFO    : Saving ben5.apk APIs
+2021-05-27 09:02:19,647 INFO    : Extractben5.apk Permissions
+2021-05-27 09:02:19,663 INFO    : Savingben5.apk Permissions
+2021-05-27 09:02:19,663 INFO    : Extractben4.apkAPI calls
+2021-05-27 09:02:19,910 INFO    : Saving mal5.apk APIs
+2021-05-27 09:02:19,910 INFO    : Extractmal5.apk Permissions
+2021-05-27 09:02:19,942 INFO    : Savingmal5.apk Permissions
+2021-05-27 09:02:19,958 INFO    : Extractmal1.apkAPI calls
+2021-05-27 09:02:20,558 INFO    : Saving ben4.apk APIs
+2021-05-27 09:02:20,558 INFO    : Extractben4.apk Permissions
+2021-05-27 09:02:20,590 INFO    : Savingben4.apk Permissions
+2021-05-27 09:02:20,590 INFO    : Extractben1.apkAPI calls
+2021-05-27 09:02:30,264 INFO    : Saving mal1.apk APIs
+2021-05-27 09:02:30,264 INFO    : Extractmal1.apk Permissions
+2021-05-27 09:02:30,280 INFO    : Savingmal1.apk Permissions
+2021-05-27 09:02:30,280 INFO    : Extractmal4.apkAPI calls
+2021-05-27 09:02:30,681 INFO    : Saving ben1.apk APIs
+2021-05-27 09:02:30,697 INFO    : Extractben1.apk Permissions
+2021-05-27 09:02:30,714 INFO    : Savingben1.apk Permissions
+2021-05-27 09:02:30,714 INFO    : Extractben2.apkAPI calls
+2021-05-27 09:02:31,544 INFO    : Saving mal4.apk APIs
+2021-05-27 09:02:31,561 INFO    : Extractmal4.apk Permissions
+2021-05-27 09:02:31,592 INFO    : Savingmal4.apk Permissions
+2021-05-27 09:03:14,551 INFO    : Saving mal6.apk APIs
+2021-05-27 09:03:14,582 INFO    : Extractmal6.apk Permissions
+2021-05-27 09:03:14,692 INFO    : Savingmal6.apk Permissions
+2021-05-27 09:03:34,622 INFO    : Saving ben2.apk APIs
+2021-05-27 09:03:34,654 INFO    : Extractben2.apk Permissions
+2021-05-27 09:03:34,733 INFO    : Savingben2.apk Permissions
+2021-05-27 09:03:34,749 INFO    : Extractben6.apkAPI calls
+2021-05-27 09:04:29,938 INFO    : Saving ben6.apk APIs
+2021-05-27 09:04:29,983 INFO    : Extractben6.apk Permissions
+2021-05-27 09:04:30,068 INFO    : Savingben6.apk Permissions
+2021-05-27 09:04:31,705 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,705 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,705 INFO    : Extractben1_API.txtfeature Matrix
+2021-05-27 09:04:31,721 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,721 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,721 INFO    : Extractben1_Permission.txtfeature Matrix
+2021-05-27 09:04:31,721 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,721 INFO    : Extractben4_API.txtfeature Matrix
+2021-05-27 09:04:31,721 INFO    : Extractben4_Permission.txtfeature Matrix
+2021-05-27 09:04:31,721 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,721 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,721 INFO    : Extractben5_API.txtfeature Matrix
+2021-05-27 09:04:31,721 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,721 INFO    : Extractben3_API.txtfeature Matrix
+2021-05-27 09:04:31,737 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,737 INFO    : Extractben2_API.txtfeature Matrix
+2021-05-27 09:04:31,737 INFO    : Extractben5_Permission.txtfeature Matrix
+2021-05-27 09:04:31,737 INFO    : Extractben6_API.txtfeature Matrix
+2021-05-27 09:04:31,737 INFO    : Traversing ..\Data\BenData folder
+2021-05-27 09:04:31,737 INFO    : Extractben3_Permission.txtfeature Matrix
+2021-05-27 09:04:31,753 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Extractben2_Permission.txtfeature Matrix
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Extractben6_Permission.txtfeature Matrix
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Extractmal4_API.txtfeature Matrix
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Extractmal1_API.txtfeature Matrix
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,769 INFO    : Extractmal2_API.txtfeature Matrix
+2021-05-27 09:04:31,769 INFO    : Traversing ..\Data\MalData folder
+2021-05-27 09:04:31,785 INFO    : Extractmal6_API.txtfeature Matrix
+2021-05-27 09:04:31,785 INFO    : Extractmal4_Permission.txtfeature Matrix
+2021-05-27 09:04:31,785 INFO    : Extractmal3_API.txtfeature Matrix
+2021-05-27 09:04:31,785 INFO    : Extractmal5_API.txtfeature Matrix
+2021-05-27 09:04:31,785 INFO    : Extractmal2_Permission.txtfeature Matrix
+2021-05-27 09:04:31,785 INFO    : Extractmal1_Permission.txtfeature Matrix
+2021-05-27 09:04:31,800 INFO    : Extractmal3_Permission.txtfeature Matrix
+2021-05-27 09:04:31,800 INFO    : Extractmal5_Permission.txtfeature Matrix
+2021-05-27 09:04:31,800 INFO    : Extractmal6_Permission.txtfeature Matrix
+2021-05-31 09:07:37,469 INFO    : Traversing ..\BenignAPK folder
+2021-05-31 09:07:37,469 INFO    : Traversing ..\MaliciousAPK folder
+2021-05-31 09:07:40,826 INFO    : Extractmal5.apkAPI calls
+2021-05-31 09:07:40,872 INFO    : Extractmal1.apkAPI calls
+2021-05-31 09:07:40,887 INFO    : Extractben6.apkAPI calls
+2021-05-31 09:07:51,914 INFO    : Saving mal5.apk APIs
+2021-05-31 09:07:51,929 INFO    : Extractmal5.apk Permissions
+2021-05-31 09:07:51,960 INFO    : Savingmal5.apk Permissions
+2021-05-31 09:07:51,960 INFO    : Extractmal2.apkAPI calls
+2021-05-31 09:07:52,257 INFO    : Saving mal1.apk APIs
+2021-05-31 09:07:52,273 INFO    : Extractmal1.apk Permissions
+2021-05-31 09:07:52,288 INFO    : Savingmal1.apk Permissions
+2021-05-31 09:07:52,288 INFO    : Extractmal4.apkAPI calls
+2021-05-31 09:07:53,366 INFO    : Saving mal2.apk APIs
+2021-05-31 09:07:53,382 INFO    : Extractmal2.apk Permissions
+2021-05-31 09:07:53,398 INFO    : Saving mal4.apk APIs
+2021-05-31 09:07:53,398 INFO    : Extractmal4.apk Permissions
+2021-05-31 09:07:53,413 INFO    : Savingmal2.apk Permissions
+2021-05-31 09:07:53,413 INFO    : Extractmal3.apkAPI calls
+2021-05-31 09:07:53,429 INFO    : Savingmal4.apk Permissions
+2021-05-31 09:07:53,444 INFO    : Extractmal6.apkAPI calls
+2021-05-31 09:08:05,551 INFO    : Saving mal3.apk APIs
+2021-05-31 09:08:05,567 INFO    : Extractmal3.apk Permissions
+2021-05-31 09:08:05,582 INFO    : Savingmal3.apk Permissions
+2021-05-31 09:09:06,841 INFO    : Saving ben6.apk APIs
+2021-05-31 09:09:06,888 INFO    : Extractben6.apk Permissions
+2021-05-31 09:09:07,029 INFO    : Savingben6.apk Permissions
+2021-05-31 09:09:07,029 INFO    : Extractben5.apkAPI calls
+2021-05-31 09:09:17,587 INFO    : Saving ben5.apk APIs
+2021-05-31 09:09:17,602 INFO    : Extractben5.apk Permissions
+2021-05-31 09:09:17,633 INFO    : Savingben5.apk Permissions
+2021-05-31 09:09:17,633 INFO    : Extractben3.apkAPI calls
+2021-05-31 09:09:18,899 INFO    : Saving mal6.apk APIs
+2021-05-31 09:09:18,946 INFO    : Extractmal6.apk Permissions
+2021-05-31 09:09:19,086 INFO    : Savingmal6.apk Permissions
+2021-05-31 09:09:27,022 INFO    : Saving ben3.apk APIs
+2021-05-31 09:09:27,037 INFO    : Extractben3.apk Permissions
+2021-05-31 09:09:27,053 INFO    : Savingben3.apk Permissions
+2021-05-31 09:09:27,053 INFO    : Extractben1.apkAPI calls
+2021-05-31 09:09:35,348 INFO    : Saving ben1.apk APIs
+2021-05-31 09:09:35,364 INFO    : Extractben1.apk Permissions
+2021-05-31 09:09:35,395 INFO    : Savingben1.apk Permissions
+2021-05-31 09:09:35,395 INFO    : Extractben2.apkAPI calls
+2021-05-31 09:10:31,690 INFO    : Saving ben2.apk APIs
+2021-05-31 09:10:31,721 INFO    : Extractben2.apk Permissions
+2021-05-31 09:10:31,815 INFO    : Savingben2.apk Permissions
+2021-05-31 09:10:31,815 INFO    : Extractben4.apkAPI calls
+2021-05-31 09:10:32,546 INFO    : Saving ben4.apk APIs
+2021-05-31 09:10:32,551 INFO    : Extractben4.apk Permissions
+2021-05-31 09:10:32,575 INFO    : Savingben4.apk Permissions
+2021-05-31 09:10:34,048 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,048 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,048 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,048 INFO    : Extractben1_API.txtfeature Matrix
+2021-05-31 09:10:34,063 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,067 INFO    : Extractben6_API.txtfeature Matrix
+2021-05-31 09:10:34,079 INFO    : Extractben2_API.txtfeature Matrix
+2021-05-31 09:10:34,080 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,090 INFO    : Extractben6_Permission.txtfeature Matrix
+2021-05-31 09:10:34,093 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,094 INFO    : Extractben1_Permission.txtfeature Matrix
+2021-05-31 09:10:34,094 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,095 INFO    : Extractben5_API.txtfeature Matrix
+2021-05-31 09:10:34,096 INFO    : Extractben2_Permission.txtfeature Matrix
+2021-05-31 09:10:34,096 INFO    : Extractben4_API.txtfeature Matrix
+2021-05-31 09:10:34,096 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,096 INFO    : Extractben3_API.txtfeature Matrix
+2021-05-31 09:10:34,096 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,096 INFO    : Extractben5_Permission.txtfeature Matrix
+2021-05-31 09:10:34,096 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:10:34,096 INFO    : Extractben4_Permission.txtfeature Matrix
+2021-05-31 09:10:34,096 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,096 INFO    : Extractben3_Permission.txtfeature Matrix
+2021-05-31 09:10:34,096 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,112 INFO    : Extractmal4_API.txtfeature Matrix
+2021-05-31 09:10:34,112 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,112 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,112 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,112 INFO    : Extractmal6_API.txtfeature Matrix
+2021-05-31 09:10:34,127 INFO    : Extractmal5_API.txtfeature Matrix
+2021-05-31 09:10:34,127 INFO    : Extractmal1_API.txtfeature Matrix
+2021-05-31 09:10:34,127 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,127 INFO    : Extractmal3_API.txtfeature Matrix
+2021-05-31 09:10:34,127 INFO    : Extractmal6_Permission.txtfeature Matrix
+2021-05-31 09:10:34,127 INFO    : Extractmal4_Permission.txtfeature Matrix
+2021-05-31 09:10:34,143 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,143 INFO    : Extractmal1_Permission.txtfeature Matrix
+2021-05-31 09:10:34,143 INFO    : Extractmal2_API.txtfeature Matrix
+2021-05-31 09:10:34,143 INFO    : Extractmal5_Permission.txtfeature Matrix
+2021-05-31 09:10:34,143 INFO    : Extractmal3_Permission.txtfeature Matrix
+2021-05-31 09:10:34,143 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,143 INFO    : Extractmal2_Permission.txtfeature Matrix
+2021-05-31 09:10:34,143 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:10:34,143 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:11:23,359 INFO    : Traversing ..\BenignAPK folder
+2021-05-31 09:11:23,359 INFO    : Traversing ..\MaliciousAPK folder
+2021-05-31 09:11:25,894 INFO    : Extractmal6.apkAPI calls
+2021-05-31 09:11:25,922 INFO    : Extractben2.apkAPI calls
+2021-05-31 09:11:25,938 INFO    : Extractmal4.apkAPI calls
+2021-05-31 09:11:26,658 INFO    : Saving mal4.apk APIs
+2021-05-31 09:11:26,662 INFO    : Extractmal4.apk Permissions
+2021-05-31 09:11:26,683 INFO    : Savingmal4.apk Permissions
+2021-05-31 09:11:26,685 INFO    : Extractmal3.apkAPI calls
+2021-05-31 09:11:36,252 INFO    : Saving mal3.apk APIs
+2021-05-31 09:11:36,262 INFO    : Extractmal3.apk Permissions
+2021-05-31 09:11:36,276 INFO    : Savingmal3.apk Permissions
+2021-05-31 09:11:36,278 INFO    : Extractmal2.apkAPI calls
+2021-05-31 09:11:37,278 INFO    : Saving mal2.apk APIs
+2021-05-31 09:11:37,283 INFO    : Extractmal2.apk Permissions
+2021-05-31 09:11:37,313 INFO    : Savingmal2.apk Permissions
+2021-05-31 09:11:37,317 INFO    : Extractmal1.apkAPI calls
+2021-05-31 09:11:49,833 INFO    : Saving mal1.apk APIs
+2021-05-31 09:11:49,842 INFO    : Extractmal1.apk Permissions
+2021-05-31 09:11:49,855 INFO    : Savingmal1.apk Permissions
+2021-05-31 09:11:49,856 INFO    : Extractmal5.apkAPI calls
+2021-05-31 09:12:01,452 INFO    : Saving mal5.apk APIs
+2021-05-31 09:12:01,463 INFO    : Extractmal5.apk Permissions
+2021-05-31 09:12:01,488 INFO    : Savingmal5.apk Permissions
+2021-05-31 09:12:53,712 INFO    : Saving mal6.apk APIs
+2021-05-31 09:12:53,751 INFO    : Extractmal6.apk Permissions
+2021-05-31 09:12:53,892 INFO    : Savingmal6.apk Permissions
+2021-05-31 09:12:54,264 INFO    : Saving ben2.apk APIs
+2021-05-31 09:12:54,308 INFO    : Extractben2.apk Permissions
+2021-05-31 09:12:54,433 INFO    : Savingben2.apk Permissions
+2021-05-31 09:12:54,439 INFO    : Extractben1.apkAPI calls
+2021-05-31 09:13:03,154 INFO    : Saving ben1.apk APIs
+2021-05-31 09:13:03,164 INFO    : Extractben1.apk Permissions
+2021-05-31 09:13:03,185 INFO    : Savingben1.apk Permissions
+2021-05-31 09:13:03,188 INFO    : Extractben5.apkAPI calls
+2021-05-31 09:13:11,693 INFO    : Saving ben5.apk APIs
+2021-05-31 09:13:11,703 INFO    : Extractben5.apk Permissions
+2021-05-31 09:13:11,724 INFO    : Savingben5.apk Permissions
+2021-05-31 09:13:11,727 INFO    : Extractben3.apkAPI calls
+2021-05-31 09:13:19,956 INFO    : Saving ben3.apk APIs
+2021-05-31 09:13:19,971 INFO    : Extractben3.apk Permissions
+2021-05-31 09:13:19,971 INFO    : Savingben3.apk Permissions
+2021-05-31 09:13:19,971 INFO    : Extractben6.apkAPI calls
+2021-05-31 09:14:23,642 INFO    : Saving ben6.apk APIs
+2021-05-31 09:14:23,678 INFO    : Extractben6.apk Permissions
+2021-05-31 09:14:23,787 INFO    : Savingben6.apk Permissions
+2021-05-31 09:14:23,792 INFO    : Extractben4.apkAPI calls
+2021-05-31 09:14:24,515 INFO    : Saving ben4.apk APIs
+2021-05-31 09:14:24,520 INFO    : Extractben4.apk Permissions
+2021-05-31 09:14:24,545 INFO    : Savingben4.apk Permissions
+2021-05-31 09:14:26,185 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,186 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,188 INFO    : Extractben3_API.txtfeature Matrix
+2021-05-31 09:14:26,192 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,192 INFO    : Extractben3_Permission.txtfeature Matrix
+2021-05-31 09:14:26,192 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,193 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,194 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,195 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,199 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,201 INFO    : Extractben1_API.txtfeature Matrix
+2021-05-31 09:14:26,203 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,209 INFO    : Extractben5_API.txtfeature Matrix
+2021-05-31 09:14:26,213 INFO    : Extractben2_API.txtfeature Matrix
+2021-05-31 09:14:26,228 INFO    : Traversing ..\Data\BenData folder
+2021-05-31 09:14:26,232 INFO    : Extractben5_Permission.txtfeature Matrix
+2021-05-31 09:14:26,233 INFO    : Extractben6_API.txtfeature Matrix
+2021-05-31 09:14:26,233 INFO    : Extractben2_Permission.txtfeature Matrix
+2021-05-31 09:14:26,233 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,234 INFO    : Extractben1_Permission.txtfeature Matrix
+2021-05-31 09:14:26,234 INFO    : Extractben4_API.txtfeature Matrix
+2021-05-31 09:14:26,234 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,248 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,250 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,251 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,251 INFO    : Extractben4_Permission.txtfeature Matrix
+2021-05-31 09:14:26,252 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,254 INFO    : Extractmal5_API.txtfeature Matrix
+2021-05-31 09:14:26,258 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,259 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,260 INFO    : Extractben6_Permission.txtfeature Matrix
+2021-05-31 09:14:26,261 INFO    : Extractmal2_API.txtfeature Matrix
+2021-05-31 09:14:26,262 INFO    : Extractmal5_Permission.txtfeature Matrix
+2021-05-31 09:14:26,262 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,265 INFO    : Traversing ..\Data\MalData folder
+2021-05-31 09:14:26,269 INFO    : Extractmal3_API.txtfeature Matrix
+2021-05-31 09:14:26,275 INFO    : Extractmal1_API.txtfeature Matrix
+2021-05-31 09:14:26,279 INFO    : Extractmal4_API.txtfeature Matrix
+2021-05-31 09:14:26,282 INFO    : Extractmal6_API.txtfeature Matrix
+2021-05-31 09:14:26,296 INFO    : Extractmal2_Permission.txtfeature Matrix
+2021-05-31 09:14:26,297 INFO    : Extractmal1_Permission.txtfeature Matrix
+2021-05-31 09:14:26,297 INFO    : Extractmal3_Permission.txtfeature Matrix
+2021-05-31 09:14:26,298 INFO    : Extractmal6_Permission.txtfeature Matrix
+2021-05-31 09:14:26,299 INFO    : Extractmal4_Permission.txtfeature Matrix
+2021-05-31 09:14:28,317 INFO    : Traversing ..\CheckApk folder
+2021-05-31 09:14:35,087 INFO    : Extracttest1.apkAPI calls
+2021-05-31 09:14:35,139 INFO    : Extracttest2.apkAPI calls
+2021-05-31 09:14:35,160 INFO    : Extracttest4.apkAPI calls
+2021-05-31 09:14:36,281 INFO    : Saving test2.apk APIs
+2021-05-31 09:14:36,287 INFO    : Extracttest2.apk Permissions
+2021-05-31 09:14:36,327 INFO    : Savingtest2.apk Permissions
+2021-05-31 09:14:36,329 INFO    : Extracttest3.apkAPI calls
+2021-05-31 09:14:46,777 INFO    : Saving test1.apk APIs
+2021-05-31 09:14:46,786 INFO    : Extracttest1.apk Permissions
+2021-05-31 09:14:46,800 INFO    : Savingtest1.apk Permissions
+2021-05-31 09:14:47,694 INFO    : Saving test3.apk APIs
+2021-05-31 09:14:47,704 INFO    : Extracttest3.apk Permissions
+2021-05-31 09:14:47,726 INFO    : Savingtest3.apk Permissions
+2021-05-31 09:15:45,472 INFO    : Saving test4.apk APIs
+2021-05-31 09:15:45,508 INFO    : Extracttest4.apk Permissions
+2021-05-31 09:15:45,610 INFO    : Savingtest4.apk Permissions
+2021-05-31 09:15:47,083 INFO    : Traversing ..\Data\CheckData folder
+2021-05-31 09:15:47,088 INFO    : Extracttest1_API.txtfeature Matrix
+2021-05-31 09:15:47,092 INFO    : Extracttest1_Permission.txtfeature Matrix
+2021-05-31 09:15:47,093 INFO    : Extracttest2_API.txtfeature Matrix
+2021-05-31 09:15:47,094 INFO    : Extracttest2_Permission.txtfeature Matrix
+2021-05-31 09:15:47,096 INFO    : Extracttest3_API.txtfeature Matrix
+2021-05-31 09:15:47,100 INFO    : Extracttest3_Permission.txtfeature Matrix
+2021-05-31 09:15:47,108 INFO    : Extracttest4_API.txtfeature Matrix
+2021-05-31 09:15:47,125 INFO    : Extracttest4_Permission.txtfeature Matrix
+2021-05-31 14:48:39,414 INFO    : Traversing ..\CheckApk folder
+2021-05-31 14:48:50,033 INFO    : Extracttest4.apkAPI calls
+2021-05-31 14:48:50,049 INFO    : Extracttest3.apkAPI calls
+2021-05-31 14:48:50,058 INFO    : Extracttest1.apkAPI calls
+2021-05-31 14:49:06,756 INFO    : Saving test3.apk APIs
+2021-05-31 14:49:06,769 INFO    : Extracttest3.apk Permissions
+2021-05-31 14:49:06,810 INFO    : Savingtest3.apk Permissions
+2021-05-31 14:49:06,813 INFO    : Extracttest2.apkAPI calls
+2021-05-31 14:49:07,510 INFO    : Saving test1.apk APIs
+2021-05-31 14:49:07,524 INFO    : Extracttest1.apk Permissions
+2021-05-31 14:49:07,547 INFO    : Savingtest1.apk Permissions
+2021-05-31 14:49:08,682 INFO    : Saving test2.apk APIs
+2021-05-31 14:49:08,689 INFO    : Extracttest2.apk Permissions
+2021-05-31 14:49:08,729 INFO    : Savingtest2.apk Permissions
+2021-05-31 14:50:42,094 INFO    : Saving test4.apk APIs
+2021-05-31 14:50:42,151 INFO    : Extracttest4.apk Permissions
+2021-05-31 14:50:42,376 INFO    : Savingtest4.apk Permissions
+2021-05-31 14:50:44,805 INFO    : Traversing ..\Data\CheckData folder
+2021-05-31 14:50:44,835 INFO    : Extracttest1_API.txtfeature Matrix
+2021-05-31 14:50:44,852 INFO    : Extracttest1_Permission.txtfeature Matrix
+2021-05-31 14:50:44,854 INFO    : Extracttest2_API.txtfeature Matrix
+2021-05-31 14:50:44,857 INFO    : Extracttest2_Permission.txtfeature Matrix
+2021-05-31 14:50:44,861 INFO    : Extracttest3_API.txtfeature Matrix
+2021-05-31 14:50:44,871 INFO    : Extracttest3_Permission.txtfeature Matrix
+2021-05-31 14:50:44,885 INFO    : Extracttest4_API.txtfeature Matrix
+2021-05-31 14:50:44,921 INFO    : Extracttest4_Permission.txtfeature Matrix
